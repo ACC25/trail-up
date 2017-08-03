@@ -13,7 +13,7 @@ The live version of the site can be found [here](https://trail-up.herokuapp.com)
 
 ![trail search](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/trail_search.jpeg?raw=true)
 ![directions](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/directions.jpeg?raw=true)
-![event page]()
+![event page](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/event_page2.jpeg?raw=true)
 ![login](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/sign_up.jpeg?raw=true)
 
 
