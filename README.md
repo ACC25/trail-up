@@ -8,3 +8,12 @@ Using a largely JS front-end, the app shows detailed Google pins for hiking trai
 integration to display the caloric, mileage and heartrate data for events users attend. 
 
 The live version of the site can be found [here](https://trail-up.herokuapp.com).
+
+### More Pictures
+
+![trail search](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/trail_search.jpeg?raw=true)
+![directions](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/directions.jpeg?raw=true)
+![event page]()
+![login](https://github.com/ACC25/trail-up/blob/developement/app/assets/images/sign_up.jpeg?raw=true)
+
+
